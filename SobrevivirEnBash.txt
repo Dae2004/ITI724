@@ -1,0 +1,17 @@
+~ se refiere al directorio "home del usuario"
+
+pwd = Print Working Directory, muestra el directorio donde el usuario se encuentra.
+
+Linux no tiene unidades lógicas.
+
+Bash monta las unidades físicas en /dev/sda por ejemplo, se enlazan en '/'.
+
+ls = list files, lista los archivos y carpetas que no están "escondidos".
+
+ls -a = Misma funcionalidad de ls pero muestra archivos y carpetas "escondidas".
+
+mkdir = Comando que crea un directorio.
+
+touch = Crea un archivo.
+
+file = Describe un archivo.
