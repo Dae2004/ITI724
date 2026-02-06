@@ -32,7 +32,7 @@ public class Main {
 
 ## Insertar imagen
 
-!["Tux"](/home/dae/Documents/ITI724/images/tux.png)
+!["Tux"](./images/tux.png)
 
 ## Implementando PKI con SSH
 
@@ -42,3 +42,6 @@ Generar claves (Ya sea RSA o ED25519) y relacionar estas en GitHub.
 
 Luego, copiamos la clave pública y creamos una clave SSH en github, usando esta misma.
 
+## Comprimir carpeta
+
+Comando: `tar cvfz Entregable-ITI724.tar.gz ITI724`
